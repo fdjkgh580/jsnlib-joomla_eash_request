@@ -1,0 +1,16 @@
+{
+    "name": "jsnlib/joomla_eash_request",
+    "type": "library",
+    "description": "Joomla! 中使用 POST 或 GET 更簡單",
+    "keywords": ["joomla", "post", "get", "easy"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "jsnlib/ao": ">=1.2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jsnlib\\": "src\\"
+        }
+    }
+}

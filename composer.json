@@ -1,5 +1,5 @@
 {
-    "name": "jsnlib/joomla_eash_request",
+    "name": "jsnlib/joomla_easy_request",
     "type": "library",
     "description": "Joomla! 中使用 POST 或 GET 更簡單",
     "keywords": ["joomla", "post", "get", "easy"],
